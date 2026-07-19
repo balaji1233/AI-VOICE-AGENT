@@ -1,4 +1,4 @@
-# 🎙️ Voice-Powered RAG Agent with NVIDIA Nemotron Models
+# 🎙️ Voice-Powered RAG Agent 
 
 Build a complete end-to-end AI agent that accepts voice input, retrieves multimodal context, reasons with long-context models, and enforces safety guardrails—all using the latest NVIDIA Nemotron open models.
 
@@ -41,8 +41,8 @@ Build a complete end-to-end AI agent that accepts voice input, retrieves multimo
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/NVIDIA-NeMo/Nemotron.git
-cd Nemotron/use-case-examples/nemotron-voice-rag-agent-example
+git clone https://github.com/balaji1233/AI-VOICE-AGENT.git
+
 ```
 
 ### 2. Set Up Environment
@@ -135,7 +135,7 @@ nemotron-voice-rag-agent-example/
 └─────────────────────────────────────────────────────────────────────┘
 ```
 
-## 📖 Tutorial Steps
+## 📖 Get Started
 
 1. **Environment Setup**: Install dependencies and configure API keys
 2. **Multimodal RAG**: Build embeddings and vector store for text + images
@@ -162,12 +162,5 @@ This project uses NVIDIA open models. Each model is governed by its respective l
 - [NVIDIA Open Model License](https://www.nvidia.com/en-us/agreements/enterprise-software/nvidia-open-model-license/)
 - [Llama 3.1 Community License](https://www.llama.com/llama3_1/license/)
 
-## 🤝 Contributing
 
-Contributions are welcome! Please read our contributing guidelines before submitting PRs.
-
-## 📬 Support
-
-- [NVIDIA Developer Forums](https://forums.developer.nvidia.com/)
-- [GitHub Issues](https://github.com/NVIDIA-NeMo/Nemotron/issues)
 
